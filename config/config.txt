@@ -1,0 +1,10 @@
+steamID64:76561198004282400
+APIkey:
+Return amount:30
+
+Categories:
+(^ seperated by commas, can be left empty)
+(look up valid categories in valid_categories.txt)
+
+Get your Steam ID here: https://steamidfinder.com/
+Get your API key here: https://steamcommunity.com/dev/apikey
