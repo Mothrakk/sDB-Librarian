@@ -19,3 +19,9 @@ PhantomJS: http://phantomjs.org/
 Requests: http://docs.python-requests.org/en/master/
 
 Selenium: http://selenium-python.readthedocs.io/
+
+## Notice
+
+This only semi-works and is of horrible quality. It uses Selenium when it could easily work with simple API calls. It's complete spaghetti and I mostly made this for practice when having discovered Selenium. I'm still leaving it up here for note.
+
+Works as a proof of concept.
